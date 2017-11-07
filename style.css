@@ -83,6 +83,9 @@ div.jumbotron {
   padding: 18px;
   font-size: 20px;
 }
+.questions .btn:hover {
+  
+}
 footer{
   border-top: 1px solid #ccc;
   margin-top: 80px;
