@@ -75,7 +75,13 @@ div.jumbotron {
   margin-top: 30px;
 }
 .questions .btn {
-  
+  border-radius: 5px;
+  color: #FFF;
+  background-color: #007bff;
+  border-color: #007bff;
+  text-decoration: none;
+  padding: 18px;
+  font-size: 20px;
 }
 footer{
   border-top: 1px solid #ccc;
